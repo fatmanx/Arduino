@@ -1,0 +1,22 @@
+C:\Users\fatman\AppData\Local\Temp\VMicroBuilds\inclinometer\nano_atmega328\inclinometer.cpp.o: \
+ C:\Users\fatman\AppData\Local\Temp\VMicroBuilds\inclinometer\nano_atmega328\inclinometer.cpp \
+ C:\Users\fatman\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/arduino.h \
+ C:\Users\fatman\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/binary.h \
+ C:\Users\fatman\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/WCharacter.h \
+ C:\Users\fatman\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/WString.h \
+ C:\Users\fatman\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/HardwareSerial.h \
+ C:\Users\fatman\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/Stream.h \
+ C:\Users\fatman\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/Print.h \
+ C:\Users\fatman\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/Printable.h \
+ C:\Users\fatman\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/USBAPI.h \
+ C:\Users\fatman\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/Arduino.h \
+ C:\Users\fatman\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\variants\eightanaloginputs/pins_arduino.h \
+ C:\Users\fatman\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\variants\eightanaloginputs/../standard/pins_arduino.h \
+ C:\Users\fatman\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\libraries\EEPROM\src/EEPROM.h \
+ C:\Users\fatman\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\libraries\Wire\src/Wire.h \
+ C:\Users\fatman\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/Stream.h \
+ C:\Users\fatman\Documents\Arduino\libraries\I2Cdev/I2Cdev.h \
+ C:\Users\fatman\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.12\cores\arduino/Arduino.h \
+ C:\Users\fatman\Documents\Arduino\libraries\MPU9150/MPU6050_6Axis_MotionApps20.h \
+ C:\Users\fatman\Documents\Arduino\libraries\MPU9150/helper_3dmath.h \
+ C:\Users\fatman\Documents\Arduino\libraries\MPU9150/MPU6050.h
